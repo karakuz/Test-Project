@@ -4,6 +4,7 @@ import com.test.database.Database;
 import com.test.user.User;
 
 public interface CreditCard {
+    ////
     public static final Database database = new Database();
 
     public void addToUser(User user);

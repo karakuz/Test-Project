@@ -1,0 +1,5 @@
+
+out\*
+*.xml
+out/production/TestProgram/com/test/account/Account.class
+out/production/TestProgram/com/test/account/Account.class

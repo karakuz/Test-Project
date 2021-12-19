@@ -1,6 +1,7 @@
 package com.test.database;
 
 public class Database {
+    ////
     private static final String CONNECTION_STRING = "";
     private static final String DB_PASSWORD = "";
     private static final String PORT = "";
