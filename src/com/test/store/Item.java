@@ -1,7 +1,7 @@
 package com.test.store;
 
 public class Item {
-    //
+    ////
     private String itemName;
     private String itemType;
     private Store store;
