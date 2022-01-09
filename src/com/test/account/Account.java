@@ -7,7 +7,7 @@ import com.test.user.User;
 import java.time.LocalDate;
 
 public class Account {
-    //
+    ////
     private LocalDate createdDate;
     private double balance = 0;
     private String userType;
