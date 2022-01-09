@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Store {
-    ////
+    //
     private Integer storeID;
     private User storeOwner;
     private final LocalDate createdDate;
