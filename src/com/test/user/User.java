@@ -9,6 +9,7 @@ import com.test.store.Store;
 import java.time.LocalDate;
 
 public class User extends Account{
+    //
     private String name;
     private int age;
 

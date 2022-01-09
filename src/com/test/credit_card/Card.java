@@ -3,7 +3,7 @@ package com.test.credit_card;
 import com.test.user.User;
 
 public class Card implements CreditCard{
-    //////
+    ///
     public void addToUser(User user) {
         database.query("test query in createCard");
     }
